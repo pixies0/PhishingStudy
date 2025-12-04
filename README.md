@@ -126,9 +126,8 @@ Sem pensar duas vezes johnny rapidamente clica no link que o leva para fazer log
 Bastou o crimonosos aguardarem e acompanhar os logs de saída do servidor e em questão de segundos... VOILÀ a presa caiu na armadilha, o peixe mordeu a isca.
 
 ```log
-[Thu Dec 04 07:55:56.923484 2025] [php:notice] [pid 31479:tid 31479] [client ::1:50358] EMAIL: silverhand.johnny@gmail.com, referer: https://XXXXXXXXXXXXX.ngrok-free.app
-[Thu Dec 04 07:55:56.923547 2025] [php:notice] [pid 31479:tid 31479] [client ::1:50358] PASSWORD: s1lv3rh4nd1sfr34k, referer: https://XXXXXXXXXXXXX.ngrok-free.app
-
+[php:notice] ... [] EMAIL: silverhand.johnny@gmail.com, referer: https://XXXXXXXXXXXXX.ngrok-free.app
+[php:notice] ... [] PASSWORD: s1lv3rh4nd1sfr34k, referer: https://XXXXXXXXXXXXX.ngrok-free.app
 ```
 
 ## ⌛ Ilusão
