@@ -9,7 +9,7 @@ O objetivo é demonstrar, de forma lúdica e didática, como ocorre uma cadeia c
 
 ## 👨‍💼 Johnny Silverhand
 
-Funcionário comum da AuroraTech, que sem saber estava prestes a cair na teia do mal.
+Funcionário comum da Aurora Corporation, que sem saber estava prestes a cair na teia do mal.
 
 Seu endereço de email constava em um vazamento de dados que foi vendido em uma negociação realizada entre entidades secretas por meio da Dark Web utilizando criptomoedas. Tudo muito discreto, e dificíl de rastrear.
 
