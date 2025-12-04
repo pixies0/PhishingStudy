@@ -27,7 +27,7 @@ O grupo já tinha interesses na Aurora Coporation e com isso passaram a monitora
 
 *— Quanta humilhação!!*
 
-Com final do mês se aproximando, o grupo hacker então deduziu que haveria a possibilidade da formulação de um novo calendário a ser seguido para o mês que estava por vir.
+Com o final do mês se aproximando, o grupo hacker então deduziu que haveria a possibilidade da formulação de um novo calendário a ser seguido para o mês que estava por vir.
 
 Essas informações ja seriam suficientes para os criminosos arquitetarem o que seria o primeiro de uma sequência de ataques de um plano maior com
 intenção de prejudicar Aurora Corporation.
