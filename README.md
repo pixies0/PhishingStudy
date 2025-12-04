@@ -29,7 +29,7 @@ O grupo já tinha interesses na Aurora Coporation e com isso passaram a monitora
 
 Com final do mês se aproximando, o grupo hacker então deduziu que haveria a possibilidade da formulação de um novo calendário a ser seguido para o mês que estava por vir.
 
-Essas informações ja seriam suficientes para os criminosos arquitetarem o que seria primeiro de uma sequência de ataques de um plano maior com
+Essas informações ja seriam suficientes para os criminosos arquitetarem o que seria o primeiro de uma sequência de ataques de um plano maior com
 intenção de prejudicar Aurora Corporation.
 
 ## ☀️ Mais um dia normal de trabalho na semana de Johnny
@@ -133,7 +133,7 @@ Sem pensar duas vezes johnny rapidamente clica no link que o leva para fazer log
 
 *— Eu sei, eu sei, não mencionei mas sim os funcionários dessa empresa não possuem muito preparo quando se trata de segurança digital.*
 
-Bastou o crimonosos aguardarem e acompanhar os logs de saída do servidor e em questão de segundos... VOILÀ a presa caiu na armadilha, o peixe mordeu a isca.
+Bastou o crimonosos aguardarem e acompanhar os logs de saída do servidor e em questão de minutos... VOILÀ a presa caiu na armadilha, o peixe mordeu a isca.
 
 ```log
 [php:notice] ... [] EMAIL: silverhand.johnny@gmail.com, referer: https://XXXXXXXXXXXXX.ngrok-free.app
